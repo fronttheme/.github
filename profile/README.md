@@ -167,11 +167,13 @@ A passionate WordPress theme developer from Bangladesh who believes in creating 
 
 ---
 
-## 📊 Repository Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=fronttheme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukrepos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukrepos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
 </div>
 
